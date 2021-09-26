@@ -1,0 +1,28 @@
+.w-600-px {
+    width: 600px;
+}
+
+@media (max-width: 575.98px) {
+    .w-600-px {
+        width: 100%;
+    }
+}
+
+.contact-list {
+    .alert {
+        padding: .5rem .5rem;
+    }
+    .fs-0-7 {
+        font-size: 0.7rem;
+    }
+    .delete-button {
+        cursor: pointer;
+        i {
+            font-size: 1.2rem;
+            opacity: 0.4;
+            &:hover {
+                opacity: 1;
+            }
+        }
+    }
+}

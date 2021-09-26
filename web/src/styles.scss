@@ -1,1 +1,12 @@
-@import '~bootstrap/scss/bootstrap';
+@import '~ngx-toastr/toastr';
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap-icons/font/bootstrap-icons.css";
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background: #f8f9fa;
+    font-size: 14px;
+}
