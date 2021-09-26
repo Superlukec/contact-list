@@ -15,8 +15,8 @@ npm i
 npm run start
 ```
 
-### Front-end (Anglular)
-Install the dependencies and devDependencies and start the server.
+### Front-end (Angular)
+Install the dependencies.
 
 ```sh
 cd web
@@ -26,4 +26,4 @@ ng serve -o
 
 ## Demo
 
-After installation visit http://localhost:4200 🎉🎉
+Demo will be visible at http://localhost:4200 🎉🎉
