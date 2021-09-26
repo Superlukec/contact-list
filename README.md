@@ -3,6 +3,7 @@
 ## Requirements
 - MongoDB, Mongoose
 - NodeJS
+- Angular CLI
 
 ## Installation
 
