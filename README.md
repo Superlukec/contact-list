@@ -1,4 +1,4 @@
-# COMLAND demo
+# CONTACT-List demo
 
 ## Requirements
 - MongoDB, Mongoose
